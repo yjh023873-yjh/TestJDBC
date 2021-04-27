@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hello world
 hello!
-=======
-hello world
->>>>>>> parent of 49164ec (修改hello.txt1次)
+world!
