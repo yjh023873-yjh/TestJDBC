@@ -1,7 +1,7 @@
 hello world
-<<<<<<< HEAD
+
 hello!
 world!
-=======
+
 hello!
->>>>>>> parent of 2dd05e1 (提交hello.txt)
+
