@@ -1,0 +1,27 @@
+From 58107a563a651e47e76cfcf880808df667d8db24 Mon Sep 17 00:00:00 2001
+From: yjh666 <123123@qq.com>
+Date: Tue, 27 Apr 2021 21:20:31 +0800
+Subject: [PATCH] =?UTF-8?q?=E6=8F=90=E4=BA=A4?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ src/hello.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/src/hello.txt b/src/hello.txt
+index 5b589d1..641931c 100644
+--- a/src/hello.txt
++++ b/src/hello.txt
+@@ -1,3 +1,7 @@
+ hello world
++<<<<<<< HEAD
+ hello!
+ world!
++=======
++hello!
++>>>>>>> parent of 2dd05e1 (提交hello.txt)
+-- 
+2.30.1.windows.1
+
